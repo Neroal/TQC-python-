@@ -1,7 +1,7 @@
 # Python TQC題目
 
 ## Chapter1
-- 101 整數格式化輸出
+- 101 整數格式化輸出  <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC101.py">程式</a>
 - 102 浮點數格式化輸出
 - 103 字串格式化輸出
 - 104 圓形面積計算
