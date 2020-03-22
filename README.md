@@ -25,40 +25,40 @@
 - 210 三角形判斷 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC210.py">(程式連結)</a>
 
 ## Chapter3
-- 301 迴圈整數連加
-- 302 迴圈偶數連加
-- 303 迴圈數值相乘
-- 304 迴圈倍數總和
-- 305 數字反轉
-- 306 迴圈階乘計算
-- 307 乘法表
-- 308 迴圈位數加總
-- 309 存款總額
-- 310 迴圈公式計算
+- 301 迴圈整數連加 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC301.py">(程式連結)</a>
+- 302 迴圈偶數連加 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC302.py">(程式連結)</a>
+- 303 迴圈數值相乘 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC303.py">(程式連結)</a>
+- 304 迴圈倍數總和 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC304.py">(程式連結)</a>
+- 305 數字反轉 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC305.py">(程式連結)</a>
+- 306 迴圈階乘計算 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC306.py">(程式連結)</a>
+- 307 乘法表 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC307.py">(程式連結)</a>
+- 308 迴圈位數加總 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC308.py">(程式連結)</a>
+- 309 存款總額 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC309.py">(程式連結)</a>
+- 310 迴圈公式計算 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC310.py">(程式連結)</a>
 
 ## Chapter4
-- 401 最小值
-- 402 不定數迴圈-最小值
-- 403 倍數總和計算
-- 404 數字反轉判斷
-- 405 不定數迴圈-分數等級
-- 406 不定數迴圈-BMI計算
-- 407 不定數迴圈-閏年判斷
-- 408 奇偶數個數計算
-- 409 得票數計算
-- 410 繪製等腰三角形
+- 401 最小值 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC401.py">(程式連結)</a>
+- 402 不定數迴圈-最小值 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC402.py">(程式連結)</a>
+- 403 倍數總和計算 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC403.py">(程式連結)</a>
+- 404 數字反轉判斷 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC404.py">(程式連結)</a>
+- 405 不定數迴圈-分數等級 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC405.py">(程式連結)</a>
+- 406 不定數迴圈-BMI計算 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC406.py">(程式連結)</a>
+- 407 不定數迴圈-閏年判斷 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC407.py">(程式連結)</a>
+- 408 奇偶數個數計算 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC408.py">(程式連結)</a>
+- 409 得票數計算 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC409.py">(程式連結)</a>
+- 410 繪製等腰三角形 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC410.py">(程式連結)</a>
 
 ## Chapter5
-- 501 訊息顯示
-- 502 乘積
-- 503 連加計算
-- 504 次方計算
-- 505 依參數格式化輸出
-- 506 一元二次方程式
-- 507 質數
-- 508 最大公因數
-- 509 最簡分數
-- 510 費氏數列
+- 501 訊息顯示 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC501.py">(程式連結)</a>
+- 502 乘積 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC502.py">(程式連結)</a>
+- 503 連加計算 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC503.py">(程式連結)</a>
+- 504 次方計算 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC504.py">(程式連結)</a>
+- 505 依參數格式化輸出 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC505.py">(程式連結)</a>
+- 506 一元二次方程式 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC506.py">(程式連結)</a>
+- 507 質數 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC507.py">(程式連結)</a>
+- 508 最大公因數 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC508.py">(程式連結)</a>
+- 509 最簡分數 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC509.py">(程式連結)</a>
+- 510 費氏數列 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC510.py">(程式連結)</a>
 
 ## Chapter6
 - 601 偶數索引值加總
