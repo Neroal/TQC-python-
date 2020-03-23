@@ -73,9 +73,9 @@
 - 610 平均溫度 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC610.py">(程式連結)</a>
 
 ## Chapter7
-- 701 串列數組轉換
-- 702 數組合併排序
-- 703 數組條件判斷
+- 701 串列數組轉換 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC701.py">(程式連結)</a>
+- 702 數組合併排序 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC702.py">(程式連結)</a>
+- 703 數組條件判斷 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC703.py">(程式連結)</a>
 - 704 集合條件判斷
 - 705 子集合與超集合
 - 706 全字母句
