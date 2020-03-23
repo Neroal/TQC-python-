@@ -76,9 +76,9 @@
 - 701 串列數組轉換 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC701.py">(程式連結)</a>
 - 702 數組合併排序 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC702.py">(程式連結)</a>
 - 703 數組條件判斷 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC703.py">(程式連結)</a>
-- 704 集合條件判斷
-- 705 子集合與超集合
-- 706 全字母句
+- 704 集合條件判斷 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC704.py">(程式連結)</a>
+- 705 子集合與超集合 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC705.py">(程式連結)</a>
+- 706 全字母句 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC706.py">(程式連結)</a>
 - 707 共同科目
 - 708 詞典合併
 - 709 詞典排序
