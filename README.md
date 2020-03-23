@@ -61,16 +61,16 @@
 - 510 費氏數列 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC510.py">(程式連結)</a>
 
 ## Chapter6
-- 601 偶數索引值加總
-- 602 撲克牌總和
-- 603 數字排序
-- 604 眾數
-- 605 成績計算
-- 606 二維串列行列數
-- 607 成績計算
-- 608 最大最小值索引
-- 609 矩陣相加
-- 610 平均溫度
+- 601 偶數索引值加總 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC601.py">(程式連結)</a>
+- 602 撲克牌總和 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC602.py">(程式連結)</a>
+- 603 數字排序 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC603.py">(程式連結)</a>
+- 604 眾數 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC604.py">(程式連結)</a>
+- 605 成績計算 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC605.py">(程式連結)</a>
+- 606 二維串列行列數 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC606.py">(程式連結)</a>
+- 607 成績計算 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC607.py">(程式連結)</a>
+- 608 最大最小值索引 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC608.py">(程式連結)</a>
+- 609 矩陣相加 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC609.py">(程式連結)</a>
+- 610 平均溫度 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC610.py">(程式連結)</a>
 
 ## Chapter7
 - 701 串列數組轉換
