@@ -5,7 +5,7 @@
 """
 import math
 
-slength = eval(input(''))
+slength = eval(input())
 
 area = (5*pow(slength,2))/(4*math.tan(math.pi/5))
 

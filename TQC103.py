@@ -5,10 +5,10 @@
 個的方式，先列印向右靠齊，再列印向左靠齊，左
 右皆以直線 |（Vertical bar）作為邊界。
 '''
-a = str(input(''))
-b = str(input(''))
-c = str(input(''))
-d = str(input(''))
+a = str(input())
+b = str(input())
+c = str(input())
+d = str(input())
 
 print('|%10s %10s|'%(a,b))
 print('|%10s %10s|'%(c,d))

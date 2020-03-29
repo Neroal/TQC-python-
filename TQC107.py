@@ -4,11 +4,11 @@
 出這五個數字之數值、總和及平均數。
  提示：輸出浮點數到小數點後第1位。
 """
-num1 = eval(input(''))
-num2 = eval(input(''))
-num3 = eval(input(''))
-num4 = eval(input(''))
-num5 = eval(input(''))
+num1 = eval(input())
+num2 = eval(input())
+num3 = eval(input())
+num4 = eval(input())
+num5 = eval(input())
 
 summ = num1+num2+num3+num4+num5
 avg = summ/5

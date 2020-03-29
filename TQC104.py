@@ -8,7 +8,7 @@
 '''
 import math
 
-radius = eval(input(''))
+radius = eval(input())
 
 print('Radius = %.2f'%(radius))
 print('Perimeter = %.2f'%(2*math.pi*radius))

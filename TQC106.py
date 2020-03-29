@@ -5,9 +5,9 @@
 的平均英哩速度（1英哩等於1.6公里）。
  提示：輸出浮點數到小數點後第一位。
 """
-x = eval(input(''))
-y = eval(input(''))
-z = eval(input(''))
+x = eval(input())
+y = eval(input())
+z = eval(input())
 
 speed = (z/1.6)/((x*60+y)/3600)
 

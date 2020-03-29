@@ -5,8 +5,8 @@
 Area）。
 """
 import math
-n = eval(input(''))
-s = eval(input(''))
+n = eval(input())
+s = eval(input())
 
 area = (n*pow(s,2))/(4*math.tan(math.pi/n))
 

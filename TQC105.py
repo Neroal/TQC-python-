@@ -5,8 +5,8 @@
 ）、周長（Perimeter）及面積（Area）。
  提示：輸出浮點數到小數點後第二位。
 """
-height=eval(input(''))
-width=eval(input(''))
+height=eval(input())
+width=eval(input())
 
 print('Height = %.2f'%height)
 print('Width = %.2f'%width)
