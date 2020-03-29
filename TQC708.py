@@ -10,32 +10,21 @@ xDIC={}
 yDIC={}
 
 print('Create dict1:')
-print('Key:',end='')
-key = input()
 
-while key !='end':
-    print('Value',end='')
-    value = input()
-    if value == 'end':
+while True:
+    key = input('Key:')
+    if key == 'end':
         break
-    else:
-        xDIC.setdefault(key,value)
-    print('Key:',end='')
-    key = input()
-
+    xDIC[key] = input('Value:')
+    
 print('Create dict2:')
-print('Key:',end='')
-key = input()
 
-while key !='end':
-    print('Value',end='')
-    value = input()
-    if value == 'end':
+while True:
+    key = input('Key:')
+    if key == 'end':
         break
-    else:
-        yDIC.setdefault(key,value)
-    print('Key:',end='')
-    key = input()
+    yDIC[key] = input('Value:')
+    
 xDIC.update(yDIC)
 
 for i in sorted(xDIC.keys()):
