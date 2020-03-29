@@ -79,10 +79,10 @@
 - 704 集合條件判斷 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC704.py">(程式連結)</a>
 - 705 子集合與超集合 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC705.py">(程式連結)</a>
 - 706 全字母句 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC706.py">(程式連結)</a>
-- 707 共同科目
-- 708 詞典合併
-- 709 詞典排序
-- 710 詞典搜尋
+- 707 共同科目 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC707.py">(程式連結)</a>
+- 708 詞典合併 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC708.py">(程式連結)</a>
+- 709 詞典排序 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC709.py">(程式連結)</a>
+- 710 詞典搜尋 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC710.py">(程式連結)</a>
 
 ## Chapter8
 - 801 字串索引
