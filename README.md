@@ -85,16 +85,16 @@
 - 710 詞典搜尋 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC710.py">(程式連結)</a>
 
 ## Chapter8
-- 801 字串索引
-- 802 字元對應
-- 803 倒數三個詞
-- 804 大寫轉換
-- 805 字串輸出
-- 806 字元次數計算
-- 807 字串加總
-- 808 社會安全碼
-- 809 密碼規則
-- 810 最大值與最小值之差
+- 801 字串索引 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC801.py">(程式連結)</a>
+- 802 字元對應 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC802.py">(程式連結)</a>
+- 803 倒數三個詞 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC803.py">(程式連結)</a>
+- 804 大寫轉換 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC804.py">(程式連結)</a>
+- 805 字串輸出 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC805.py">(程式連結)</a>
+- 806 字元次數計算 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC806.py">(程式連結)</a>
+- 807 字串加總 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC807.py">(程式連結)</a>
+- 808 社會安全碼 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC808.py">(程式連結)</a>
+- 809 密碼規則 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC809.py">(程式連結)</a>
+- 810 最大值與最小值之差 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC810.py">(程式連結)</a>
 
 ## Chapter9
 - 901 成績資料
