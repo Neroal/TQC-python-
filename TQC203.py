@@ -5,7 +5,7 @@
 。其判斷規則為：每四年一閏，每百年不閏，但每
 四百年也一閏。
 """
-year = eval(input(''))
+year = eval(input())
 
 if year%400 == 0 :
     print('%d is a leqp year'%year)

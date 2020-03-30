@@ -7,7 +7,7 @@ multiple of 3.】或【x is a multiple of 5.】；若此數值
 】；如此數值皆不屬於3或5的倍數，顯示【x is not a
 multiple of 3 or 5.】，將使用者輸入的數值代入x。
 """
-x = eval(input(''))
+x = eval(input())
 
 if x%3==0 and x%5==0:
     print('%d is a multiple of 3 and 5.'%x)
