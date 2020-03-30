@@ -97,14 +97,14 @@
 - 810 最大值與最小值之差 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC810.py">(程式連結)</a>
 
 ## Chapter9
-- 901 成績資料
-- 902 資料加總
-- 903 成績資料
-- 904 資料計算
-- 905 字串資料刪除
-- 906 字串資料取代
-- 907 詳細資料顯示
-- 908 單字次數計算
-- 909 聯絡人資
-- 910 學生基本資料
+- 901 成績資料 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC901.py">(程式連結)</a>
+- 902 資料加總 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC902.py">(程式連結)</a>
+- 903 成績資料 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC903.py">(程式連結)</a>
+- 904 資料計算 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC904.py">(程式連結)</a>
+- 905 字串資料刪除 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC905.py">(程式連結)</a>
+- 906 字串資料取代 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC906.py">(程式連結)</a>
+- 907 詳細資料顯示 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC907.py">(程式連結)</a>
+- 908 單字次數計算 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC908.py">(程式連結)</a>
+- 909 聯絡人資 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC909.py">(程式連結)</a>
+- 910 學生基本資料 <a href="https://github.com/Neroal/TQC-python-/blob/master/TQC910.py">(程式連結)</a>
 
