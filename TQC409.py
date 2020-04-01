@@ -26,7 +26,7 @@ for i in range(5):
 
 if vote1 > vote2:
     print('No.1 Nami won the election.')
-elif vote2 < vote1:
+elif vote2 > vote1:
     print('No.2 Chopper won the election.')
 else:
      print('No one won the election.')

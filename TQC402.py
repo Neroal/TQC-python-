@@ -5,12 +5,11 @@
 出最小值。
 
 """
+LIST = []
 
-value =0
-minvalue = eval(input())
-
-while value!=9999:
+while True:
         value = eval(input())
-        if value < minvalue:
-            minvalue = value
-print(minvalue)
+        if value == 9999:
+            break
+        LIST.append(value)
+print(min(LIST))

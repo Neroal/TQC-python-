@@ -12,6 +12,7 @@ period = eval(input())
 
 #change to percent
 rate/=100
+
 print('%s\t%s'%('Month','Amount'))
 for month in range(1,period+1):
     total = amount + (amount*(rate/12))
